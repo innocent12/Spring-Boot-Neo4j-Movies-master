@@ -1,11 +1,13 @@
 # Spring-Boot-Neo4j-Movies
 
-### Spring-Boot集成Neo4j结合Spark的朴素贝叶斯分类器实现基于电影知识图谱的智能问答系统
+### Spring-Boot集成Neo4j结合Spark的朴素贝叶斯分类器实现基于茶虫知识图谱的智能问答系统
+### 早电影知识图谱的基础上做了一些改动，更换了数据集
 
-## 博客地址：https://blog.csdn.net/appleyk
+## 项目参考博客地址：https://blog.csdn.net/appleyk
 
-## 项目博客地址：https://blog.csdn.net/Appleyk/article/details/80422055
+## 项目参考博客地址：https://blog.csdn.net/Appleyk/article/details/80422055
 
+## B站视频展示:https://www.bilibili.com/video/BV1h44y1a7Qh/
 
 #### 升级Spark依赖，由原来的2.3升级到2.4，GitHub官方提醒> = 1.0.0，<= 2.3.2之间的版本容易受到攻击
 #### spark2.4  == >scala2.11 and scala2.12
