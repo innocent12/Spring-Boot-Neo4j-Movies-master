@@ -1,0 +1,6 @@
+2021-12-09 12:06:05,383 INFO (StartupInfoLogger.java:50)- Starting App on DESKTOP-3CLFN07 with PID 20644 (started by lenovo in E:\我的项目合集\接单项目\300-java知识图谱问答系统\Spring-Boot-Neo4j-Movies-master)
+2021-12-09 12:06:05,403 INFO (SpringApplication.java:675)- No active profile set, falling back to default profiles: default
+2021-12-09 12:09:14,648 INFO (StartupInfoLogger.java:59)- Started App in 200.326 seconds (JVM running for 213.857)
+2021-12-09 12:26:12,391 INFO (StartupInfoLogger.java:50)- Starting App on DESKTOP-3CLFN07 with PID 14528 (started by lenovo in E:\我的项目合集\接单项目\300-java知识图谱问答系统\Spring-Boot-Neo4j-Movies-master)
+2021-12-09 12:26:12,398 INFO (SpringApplication.java:675)- No active profile set, falling back to default profiles: default
+2021-12-09 12:26:56,567 INFO (StartupInfoLogger.java:59)- Started App in 45.285 seconds (JVM running for 48.425)
